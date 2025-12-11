@@ -85,8 +85,8 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = Dashboard_magnitude_overall()     // 21
   //response = Dashboard_Company_Attacks()       // 22
   //response = Dashboard_All_Departments()       // 23
-  response = Dashboard_All_Departments_export()// 24
-  //response = Dashboard_event()                 // 25
+  //response = Dashboard_All_Departments_export()// 24
+  response = Dashboard_event()                 // 25
   //response = Dashboard_service()               // 26
 
   //============== Log status ======================//

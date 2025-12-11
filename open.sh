@@ -4,10 +4,10 @@
 ##########################################################################
 ##########################################################################
 ##########################################################################
-                     API="Dashboard_All_Departments_export" 
+                     API="Dashboard_event" 
                      google_sheet="https://docs.google.com/spreadsheets/d/1z-EWCkDZbLmZrHSR94Fwf9TqxspTddQkcaLiK43lq_M/edit?gid=1367990024#gid=1367990024" 
-                     id="20"                 #เปลี่ยน id ทุกครั้งที่ยิง
-                     user="200";            #จำนวนผู้ใช้งาน
+                     id="8"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     user="250";            #จำนวนผู้ใช้งาน
                      duration="1";         #วินาที
                      scenario="1"           #scenario="1" ยิงเเบบกำหนด request (duration ได้แค่ 1 วินาที)
                      cid="1"                #scenario="2" ยิงเเบบกำหนด VUs  (กำหนดว่า user x คน ใช้ระบบ x วินาที)

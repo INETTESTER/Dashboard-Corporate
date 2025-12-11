@@ -77,7 +77,7 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = Asset_management_detail()         // 15
   //response = Asset_management_export()         // 16
   //response = Asset_management_overview()       // 17
-  response = Asset_management_export_overview()// 18
+  //response = Asset_management_export_overview()// 18
 
   //============== Dashboard ======================//
   //response = Dashboard_graph()                 // 19
@@ -85,7 +85,7 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = Dashboard_magnitude_overall()     // 21
   //response = Dashboard_Company_Attacks()       // 22
   //response = Dashboard_All_Departments()       // 23
-  //response = Dashboard_All_Departments_export()// 24
+  response = Dashboard_All_Departments_export()// 24
   //response = Dashboard_event()                 // 25
   //response = Dashboard_service()               // 26
 

@@ -70,7 +70,7 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = EDR_security_export()             // 10
   //response = EDR_antivirus_event()             // 11
   //response = EDR_antivirus_detail()            // 12
-  //response = EDR_antivirus_export()            // 13
+  response = EDR_antivirus_export()            // 13
 
   //============== ASSET ======================//
   //response = Asset_management_graph()          // 14

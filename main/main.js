@@ -86,13 +86,13 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = Dashboard_Company_Attacks()       // 22
   //response = Dashboard_All_Departments()       // 23
   //response = Dashboard_All_Departments_export()// 24
-  response = Dashboard_event()                 // 25
+  //response = Dashboard_event()                 // 25
   //response = Dashboard_service()               // 26
 
   //============== Log status ======================//
   //response = Log_status_overview()             // 27
   //response = Log_status_detail()               // 28
-  //response = Log_status_export()               // 29
+  response = Log_status_export()               // 29
 
   //============== Login Fail ======================//
   //response = Login_fail_graph()                // 30

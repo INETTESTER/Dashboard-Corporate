@@ -18,7 +18,7 @@ export function Asset_management_detail() {
 
     const res = http.post(url, payload, params);
 
-    console.log('Response body:', res.body);
+    //console.log('Response body:', res.body);
 
     return res;
 }

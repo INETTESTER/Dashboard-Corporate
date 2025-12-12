@@ -92,12 +92,12 @@ export default function () {    //เรียกใช้ API ใน export def
   //============== Log status ======================//
   //response = Log_status_overview()             // 27
   //response = Log_status_detail()               // 28
-  response = Log_status_export()               // 29
+  //response = Log_status_export()               // 29
 
   //============== Login Fail ======================//
   //response = Login_fail_graph()                // 30
   //response = Login_fail_detail()               // 31
-  //response = Login_fail_export()               // 32
+  response = Login_fail_export()               // 32
 
   //============== Backup ======================//
   //response = backup_graph()                    // 33

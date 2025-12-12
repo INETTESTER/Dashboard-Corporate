@@ -97,12 +97,12 @@ export default function () {    //เรียกใช้ API ใน export def
   //============== Login Fail ======================//
   //response = Login_fail_graph()                // 30
   //response = Login_fail_detail()               // 31
-  response = Login_fail_export()               // 32
+  //response = Login_fail_export()               // 32
 
   //============== Backup ======================//
-  //response = backup_graph()                    // 33
+  //response = backup_graph()                    // 33  << ยังไม่ยิง
   //response = backup_detail()                   // 34
-  //response = backup_export()                   // 35
+  response = backup_export()                   // 35
 
   //============== Daily ======================//
   //response = daily_csoc_overview_post_all_data()   // 36
